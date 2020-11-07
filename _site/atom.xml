@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Roman Sigalov</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-11-07T19:45:35+03:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Disaster_risk</title>
+   <link href="http://localhost:4000/2019/09/30/disaster_risk.html"/>
+   <updated>2019-09-30T00:00:00+03:00</updated>
+   <id>http://localhost:4000/2019/09/30/disaster_risk</id>
+   <content type="html">&lt;h2 id=&quot;disaster-risk&quot;&gt;Disaster Risk&lt;/h2&gt;
+
+&lt;p&gt;Replication of &lt;a href=&quot;https://www.hbs.edu/faculty/Publication%20Files/16-061_797fe134-9faa-4a5f-be41-1f1e5bebddcb.pdf&quot;&gt;Siriwardane (2015)&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Delta_neutral_straddles</title>
+   <link href="http://localhost:4000/2019/09/30/delta_neutral_straddles.html"/>
+   <updated>2019-09-30T00:00:00+03:00</updated>
+   <id>http://localhost:4000/2019/09/30/delta_neutral_straddles</id>
+   <content type="html">&lt;h2 id=&quot;disaster-risk&quot;&gt;Disaster Risk&lt;/h2&gt;
+
+&lt;p&gt;Replication of &lt;a href=&quot;https://www.hbs.edu/faculty/Publication%20Files/16-061_797fe134-9faa-4a5f-be41-1f1e5bebddcb.pdf&quot;&gt;Siriwardane (2015)&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

@@ -1,0 +1,14 @@
+---
+layout: page
+title: Code
+---
+
+Link to my github page
+
+<ul>
+{% for member in site.data.codeposts %}
+  <li>
+    <a href="{{member.link}}">{{ member.name }}</a>: {{ member.description}}
+  </li>
+{% endfor %}
+</ul>
