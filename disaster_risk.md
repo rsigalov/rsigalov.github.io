@@ -7,6 +7,8 @@ title: Disaster Risk
 
 Code can be found on [Github](https://github.com/rsigalov/disaster-risk-revision).
 
+### 
+
 The code generates disaster measure introduced in [Siriwardane (2015)](https://www.hbs.edu/faculty/Publication%20Files/16-061_797fe134-9faa-4a5f-be41-1f1e5bebddcb.pdf). To do it
 the code loads data on individual names options, fits SVI smiles into implied
 volatilities and isolates the jump component following
