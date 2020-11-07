@@ -1,9 +1,9 @@
 - name: Disaster Risk
-  link: /codeposts/disaster_risk.html
+  link: /disaster_risk.html
   description: Replication of <a href="https://www.hbs.edu/faculty/Publication%20Files/16-061_797fe134-9faa-4a5f-be41-1f1e5bebddcb.pdf">Siriwardane (2015)</a>
 - name: Delta Neutral Straddles
-  link: /codeposts/delta_neutral_straddles.html
+  link: /delta_neutral_straddles.html
   description: Replication of <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12220">Cremers, Halling and Weinbaum (2014)</a>
 - name: Reaching for Yield
-  link: /codeposts/reaching_for_yield.html
+  link: /reaching_for_yield.html
   description: Numerical solutions in <a href="/papers/ReachingForYield.pdf">Campbell and Sigalov (2020)</a>
