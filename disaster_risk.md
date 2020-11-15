@@ -17,7 +17,7 @@ Prior research found that small companies are more correlated with real economic
 activity. A disaster measure constructed from individual names rather than using
 options of aggregate indices highlights levers this observation.
 [Technical Appendix]({{site.url}}/papers/Disaster Risk Technical Appendix.pdf)
-provides more details on estimation.
+provides more details on estimation. [Details on Replication of Cremers JUMP and VOL factors]({{site.url}}/papers/Cremers JUMP and VOL factors technical details.pdf)
 
 In the two figures below I show how the disaster measure estimated from
 individual names options (Level D) compares with disaster measure estimated from
