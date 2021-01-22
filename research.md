@@ -5,7 +5,7 @@ title: Research
 
 ## Working Papers
 
-### [Portfolio Choice with Sustainable Spending: A Model of Reaching for Yield]({{site.url}}/papers/ReachingForYield.pdf) (with John Y. Campbell, R&R in Journal of Financial Economics)
+### [Portfolio Choice with Sustainable Spending: A Model of Reaching for Yield]({{site.url}}/papers/ReachingForYield.pdf) (with John Y. Campbell, Journal of Financial Economics, Forthcoming)
 
 We show that reaching for yield -- a tendency to take more risk when the real interest rate declines
 while the risk premium remains constant -- results from imposing a sustainable spending constraint
