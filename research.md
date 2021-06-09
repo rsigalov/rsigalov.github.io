@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-## Working Papers
+## Publications
 
 ### [Portfolio Choice with Sustainable Spending: A Model of Reaching for Yield]({{site.url}}/papers/ReachingForYield.pdf) (with John Y. Campbell, Journal of Financial Economics, Forthcoming)
 
@@ -15,7 +15,7 @@ respectively. Reaching for yield intensifies when the interest rate is initially
 the salience of the topic in the current low-rate environment. The sustainable spending constraint
 also affects the response of risktaking to a change in the risk premium, which can even be negative
 when the riskless interest rate is sufficiently low. In a variant of the model where the sustainable
-spending constraint is formulated in nominal terms, low inflation also encourages risktaking. ([Online appendix]({{site.url}}/papers/ReachingForYield_Appendix.pdf), [code]({{site.url}}/reaching_for_yield.html))
+spending constraint is formulated in nominal terms, low inflation also encourages risktaking. ([Publisher's version](https://www.sciencedirect.com/science/article/pii/S0304405X21002002), [Online appendix]({{site.url}}/papers/ReachingForYield_Appendix.pdf), [code]({{site.url}}/reaching_for_yield.html))
 
 ## Research in Progress
 
