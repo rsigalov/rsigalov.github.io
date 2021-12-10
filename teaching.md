@@ -7,7 +7,7 @@ title: Teaching
 
 These notes were prepared for Asset Pricing class taught by John Y. Campbell in Fall 2019. 
 
-### Notes based on Campbell (2017)
+### Notes based on Campbell (2018)
 
 * [Chapter 2: Static Portfolio Choice]({{site.url}}/APNotes/chapter2.pdf)
 * [Chapter 4: Stochastic Discount Factor]({{site.url}}/APNotes/chapter4.pdf)
