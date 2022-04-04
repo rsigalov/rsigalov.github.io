@@ -1,6 +1,6 @@
-I"<h2 id="publications">Publications</h2>
+I"d<h2 id="publications">Publications</h2>
 
-<h3 id="portfolio-choice-with-sustainable-spending-a-model-of-reaching-for-yield-with-john-y-campbell-journal-of-financial-economics-forthcoming"><a href="/papers/ReachingForYield.pdf">Portfolio Choice with Sustainable Spending: A Model of Reaching for Yield</a> (with John Y. Campbell, Journal of Financial Economics, Forthcoming)</h3>
+<h3 id="portfolio-choice-with-sustainable-spending-a-model-of-reaching-for-yield-journal-of-financial-economics-2022-with-john-y-campbell"><a href="http://localhost:4000/papers/ReachingForYield.pdf">“Portfolio Choice with Sustainable Spending: A Model of Reaching for Yield”</a> <strong>Journal of Financial Economics</strong>, 2022, with John Y. Campbell</h3>
 
 <p>We show that reaching for yield – a tendency to take more risk when the real interest rate declines
 while the risk premium remains constant – results from imposing a sustainable spending constraint
@@ -10,7 +10,7 @@ respectively. Reaching for yield intensifies when the interest rate is initially
 the salience of the topic in the current low-rate environment. The sustainable spending constraint
 also affects the response of risktaking to a change in the risk premium, which can even be negative
 when the riskless interest rate is sufficiently low. In a variant of the model where the sustainable
-spending constraint is formulated in nominal terms, low inflation also encourages risktaking. (<a href="https://www.sciencedirect.com/science/article/pii/S0304405X21002002">Publisher’s version</a>, <a href="/papers/ReachingForYield_Appendix.pdf">Online appendix</a>, <a href="/reaching_for_yield.html">code</a>)</p>
+spending constraint is formulated in nominal terms, low inflation also encourages risktaking. (<a href="https://www.sciencedirect.com/science/article/pii/S0304405X21002002">Publisher’s version</a>, <a href="http://localhost:4000/papers/ReachingForYield_Appendix.pdf">Online appendix</a>, <a href="http://localhost:4000/reaching_for_yield.html">code</a>)</p>
 
 <h2 id="research-in-progress">Research in Progress</h2>
 

@@ -1,9 +1,0 @@
-I"t<h2 id="reaching-for-yield">Reaching for Yield</h2>
-
-<p>Code used in <a href="/papers/ReachingForYield.pdf">Campbell and Sigalov (2020)</a></p>
-
-<ul>
-  <li>Code for solving the static model and creating figures (<a href="/code/generate_figures.nb">download</a>)</li>
-  <li>Code for solving the dynamic model (<a href="/code/func_dynamic_model.jl">download</a>)</li>
-</ul>
-:ET
