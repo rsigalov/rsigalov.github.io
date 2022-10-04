@@ -19,7 +19,17 @@ spending constraint is formulated in nominal terms, low inflation also encourage
 
 ## Research in Progress
 
-### Lifecycle of Private Equity (with Andrea Hamaui)
+### "Jump risk: estimation and implications", with Nikunj Kapadia and Emil Siriwardane
+
+We use a model free option based measure of jump risk to estimate jump risk in the cross section of stocks. We show that the exposure to average cross-sectional jump intensity is priced in the cross-section of stock returns. This relationship is stronger than for exposure to S&P jump intensity. We show that companies with higher exposure to average jump intensity not only have low stock returns but also experience a fall in profitability and investments during the GFC. We show that the proposed measure loads on large jumps. We, therefore, link our measure to macro-finance literature and showing that time series movements of jump intensity are inconsistent with baseline variable disaster risk models and, in particular, imply a significantly lower risk premium.
+
+
+### "Real and financial options: production based approach to option pricing"
+
+Traditional option pricing literature starts with exogenous processes governing the joint evolution of the underlying price, stochastic volatility and jumps. This approach is, by design, silent on the fundamental determinants of the cross-section of equity options. I document a heterogeneous effect of firm fundamentals such as book-to-market on the relative prices of options that varies with the aggregate state of the economy. In particular, growth companies have higher skew in expansions but not in recessions. I develop a stylized production based asset pricing model with real options consistent with this evidence. A full structural model with leverage is able to match the observed patterns both qualitatively and quantitatively. Additionally, I show that the real options model can rationalize recently proposed delta-hedged option strategies based on profitability and book-to-market.
+
+
+<!-- ### Lifecycle of Private Equity (with Andrea Hamaui)
 
 We study the implications of the finitely-lived structure of
 Private Equity funds on their risk and performance. We find that
@@ -39,4 +49,4 @@ that proxy for operating profitability of portfolio companies and
 higher aggregate valuation ratios are associated with higher
 probability of exit from a fund’s investment. Moreover, this
 effect gets stronger with the time from the investments and thus
-with fund’s age.
+with fund’s age. -->
