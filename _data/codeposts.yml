@@ -2,7 +2,7 @@
   link: /disaster_risk.html
   description: Constructing the model-free jump measure from the cross-section of equity options.
 - name: Real and Financial Options
-  link: /real_and_financial_options.html
+  link: https://github.com/rsigalov/real_options
   description: Numerical solution to continuous time model and discrete time structural model.
 - name: Reaching for Yield
   link: /reaching_for_yield.html

@@ -5,6 +5,7 @@ title: Teaching
 
 ## Asset Pricing
 
+
 These notes were prepared while assisting John Y. Campbell in teaching PhD level Asset Pricing in the Fall of 2019. They follow the main textbook for the class and are aimed to fill in the derivations omitted in the textbook and provide additional intuition for the results.
 
 ### Notes based on Campbell (2018)
