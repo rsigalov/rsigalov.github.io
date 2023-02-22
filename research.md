@@ -7,15 +7,7 @@ title: Research
 
 ### ["Portfolio Choice with Sustainable Spending: A Model of Reaching for Yield"](https://www.sciencedirect.com/science/article/pii/S0304405X21002002) **Journal of Financial Economics**, 2022, with John Y. Campbell
 
-We show that reaching for yield -- a tendency to take more risk when the real interest rate declines
-while the risk premium remains constant -- results from imposing a sustainable spending constraint
-on an otherwise standard infinitely lived investor with power utility. This is true for two alternative
-versions of the constraint which make wealth and consumption follow martingales in levels or in logs,
-respectively. Reaching for yield intensifies when the interest rate is initially low, helping to explain
-the salience of the topic in the current low-rate environment. The sustainable spending constraint
-also affects the response of risktaking to a change in the risk premium, which can even be negative
-when the riskless interest rate is sufficiently low. In a variant of the model where the sustainable
-spending constraint is formulated in nominal terms, low inflation also encourages risktaking. ([pre-publication version]({{site.url}}/papers/ReachingForYield.pdf), [online appendix]({{site.url}}/papers/ReachingForYield_Appendix.pdf), [code]({{site.url}}/reaching_for_yield.html))
+We show that reaching for yield -- a tendency to take more risk when the real interest rate declines while the risk premium remains constant -- results from imposing a sustainable spending constraint on an otherwise standard infinitely lived investor with power utility. This is true for two alternative versions of the constraint which make wealth and consumption follow martingales in levels or in logs, respectively. Reaching for yield intensifies when the interest rate is initially low, helping to explain the salience of the topic in the current low-rate environment. The sustainable spending constraint also affects the response of risktaking to a change in the risk premium, which can even be negative when the riskless interest rate is sufficiently low. In a variant of the model where the sustainable spending constraint is formulated in nominal terms, low inflation also encourages risktaking. ([pre-publication version]({{site.url}}/papers/ReachingForYield.pdf), [online appendix]({{site.url}}/papers/ReachingForYield_Appendix.pdf), [code]({{site.url}}/reaching_for_yield.html))
 
 ## Research in Progress
 
@@ -26,7 +18,7 @@ We use a model free option based measure of jump risk to estimate jump risk in t
 
 ### "Real and financial options: production based approach to option pricing"
 
-Traditional option pricing literature starts with exogenous processes governing the joint evolution of the underlying price, stochastic volatility and jumps. This approach is, by design, silent on the fundamental determinants of the cross-section of equity options. I document a heterogeneous effect of firm fundamentals such as book-to-market on the relative prices of options that varies with the aggregate state of the economy. In particular, growth companies have higher skew in expansions but not in recessions. I develop a stylized production based asset pricing model with real options consistent with this evidence. A full structural model with leverage is able to match the observed patterns both qualitatively and quantitatively. Additionally, I show that the real options model can rationalize recently proposed delta-hedged option strategies based on profitability and book-to-market. ([slides]({{site.url}}/papers/real_options_overview.pdf))
+Traditional option pricing literature starts with exogenous processes governing the joint evolution of the underlying price, stochastic volatility and jumps. This approach is, by design, silent on the fundamental determinants of the cross-section of equity options. I document a heterogeneous effect of firm fundamentals such as book-to-market on the relative prices of options that varies with the aggregate state of the economy. In particular, growth companies have higher skew in expansions but not in recessions. I develop a stylized production based asset pricing model with real options consistent with this evidence. A full structural model with leverage is able to match the observed patterns both qualitatively and quantitatively. Additionally, I show that the real options model can rationalize recently proposed delta-hedged option strategies based on profitability and book-to-market. ([slides]({{site.url}}/papers/real_options_overview.pdf), [preliminary draft]({{site.url}}/papers/RealAndFinancialOptions.pdf))
 
 
 <!-- ### Lifecycle of Private Equity (with Andrea Hamaui)
