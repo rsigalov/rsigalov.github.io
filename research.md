@@ -53,7 +53,7 @@ title: Research
 
 ## Research in Progress
 
-#### "Jump Risk: Estimation and Implications", with Nikunj Kapadia and Emil Siriwardane
+#### "Jump Risk: Estimation and Implications", with Emil Siriwardane
 
 Draft coming soon
 

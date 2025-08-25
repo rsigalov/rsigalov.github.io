@@ -3,7 +3,7 @@ layout: default
 title: Disaster Risk
 ---
 
-## Disaster Risk (with Nikunj Kapadia and Emil Siriwardane)
+## Disaster Risk (with Emil Siriwardane)
 
 Code can be found on [Github](https://github.com/rsigalov/disaster-risk-revision).
 
